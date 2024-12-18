@@ -1,0 +1,7 @@
+# Ignore Python virtual environments
+cifar/
+*.cifar/
+
+# Ignore log files
+*.log
+*.log.*
