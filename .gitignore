@@ -3,6 +3,14 @@ cifar/
 *.cifar
 /
 
+tf18/
+*.tf18
+/
+
+Tuning Log Files/
+*.Tuning Log Files
+/
+
 # Ignore log files
 *.log
 *.log.*
